@@ -9,8 +9,10 @@ project:
   # github:
   toc:
     - file: content/index
-    - pattern: 'tps/*.md'
+    - file: 'tps/tp01.ipynb'
       title: TP1
+    - file: 'tps/tp10.md'
+      title: TPx
     
 site:
   template: book-theme
