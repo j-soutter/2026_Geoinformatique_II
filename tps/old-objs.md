@@ -10,13 +10,14 @@ TP1: # ArcGIS Pro & les machines virtuelles
 6. Éditer l’apparence d’une couche
 7. Ouvrir et éditer des tables attributaires
 
- TP2: # Fondamentaux de l’information géographique
-8. Comprendre les principes du géoréférencement et des informations géographiques
-9. Comprendre les différences et les caractéristiques propres aux systèmes de coordonnées géographiques et projetées
-10. Savoir ce qu’est le DATUM (système géodésique) et savoir le manipuler
-11. Connaître les propriétés des différentes projections
-12. Utiliser les indicateurs de Tissot pour différencier et comprendre les projections
-13. Mesurer des distances
+TP2: # Fondamentaux de l’information géographique
+
+1. Comprendre les principes du géoréférencement et des informations géographiques
+2. Comprendre les différences et les caractéristiques propres aux systèmes de coordonnées géographiques et projetées
+3. Savoir ce qu’est le DATUM (système géodésique) et savoir le manipuler
+4. Connaître les propriétés des différentes projections
+5. Utiliser les indicateurs de Tissot pour différencier et comprendre les projections
+6. Mesurer des distances
 
 TP3: # Géodatabase et requêtes attributaires
 
