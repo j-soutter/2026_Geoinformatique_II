@@ -15,8 +15,6 @@ project:
       title: TP1 Python
     - file: 'tps/tp05.md'
       title: TP5 (Portfolio)
-    - file: 'tps/tp10.md'
-      title: TPx
     
 site:
   template: book-theme
